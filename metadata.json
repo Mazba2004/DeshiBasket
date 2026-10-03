@@ -1,0 +1,6 @@
+{
+  "name": "DESHI BASKET - দেশি বাস্কেট",
+  "description": "কাশিয়ানীর বিশ্বস্ত লোকাল খাবার, মুদি বাজার ও জরুরি ওষুধ ডেলিভারি প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
